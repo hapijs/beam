@@ -1,7 +1,7 @@
 {
     "name": "@commercial/beam",
     "description": "Load generator",
-    "version": "0.0.0",
+    "version": "1.0.0",
     "repository": "git://github.com/hapijs/beam",
     "main": "lib/index.js",
     "keywords": [
