@@ -35,7 +35,7 @@ describe('Timer', () => {
 
         it('waits for time remaining after reset', async () => {
 
-            const team = new Teamwork();
+            const team = new Teamwork.Team();
             const timer = new Timer.Resettable(() => team.attend(), 50);
 
             await Hoek.wait(20);
