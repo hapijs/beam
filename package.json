@@ -1,5 +1,5 @@
 {
-    "name": "@commercial/beam",
+    "name": "@hapi/beam",
     "description": "Load generator",
     "version": "2.0.0",
     "repository": "git://github.com/hapijs/beam",
@@ -26,5 +26,5 @@
         "test": "lab -a @hapi/code -t 100 -L",
         "test-cov-html": "lab -a @hapi/code -r html -o coverage.html"
     },
-    "license": "SEE LICENSE IN LICENSE.md"
+    "license": "BSD-3-Clause"
 }
