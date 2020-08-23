@@ -11,9 +11,9 @@
     ],
     "dependencies": {
         "@hapi/hoek": "9.x.x",
-        "@hapi/joi": "17.x.x",
         "@hapi/podium": "4.x.x",
         "@hapi/teamwork": "5.x.x",
+        "@hapi/validate": "1.x.x",
         "hdr-histogram-js": "2.x.x",
         "http-parser-js": "0.5.x"
     },
